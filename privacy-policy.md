@@ -1,6 +1,6 @@
 # Sukoon — Privacy Policy
 
-**Effective date:** October 26, 2026
+**Effective date:** November 2, 2026
 
 Sukoon plays the Quran over calm night sounds so you can fall asleep to it. It is built to be private: there is no account, no advertising and no tracking. This policy explains the little data the app handles, why, and the choices you have.
 
@@ -17,6 +17,7 @@ Everything you make in Sukoon stays on your device. If you use iCloud Backup, Ap
 - **Your nights:** the list you build — what is recited, the reciter, the place, the sound levels and the names you give them.
 - **Settings:** which screen the app opens on, your default reciter, the wake time, and the sleep timer you last chose.
 - **Downloaded recitation:** the audio files you choose to download, kept so a night plays without a connection. You can remove them in Settings.
+- **Your photograph:** if you make a place from a picture of your own, you choose it with Apple's photo picker. Sukoon receives only that one picture, keeps a copy inside the app, and never sees the rest of your library.
 
 ### Leaves your device
 
@@ -25,7 +26,7 @@ Everything you make in Sukoon stays on your device. If you use iCloud Backup, Ap
 
 ### Not collected
 
-Sukoon has no account, no advertising, no analytics and no third-party trackers. It does not ask for your location, your contacts, your microphone or your photo library. It does not know when Fajr is anywhere, because it never asks where you are — the wake time is a time you set yourself.
+Sukoon has no account, no advertising, no analytics and no third-party trackers. It does not ask for your location, your contacts, your microphone or access to your photo library. It does not know when Fajr is anywhere, because it never asks where you are — the wake time is a time you set yourself.
 
 ## 3. Why we handle it
 
@@ -37,7 +38,7 @@ Sukoon is not directed at children under 13, and we do not knowingly collect per
 
 ## 5. How long it is kept
 
-Everything the app stores stays on your device until you delete it or delete the app. We hold no copy. Deleting Sukoon removes your nights, your settings and every downloaded file.
+Everything the app stores stays on your device until you delete it or delete the app. We hold no copy. Deleting Sukoon removes your nights, your settings, your photograph and every downloaded file.
 
 ## 6. Your rights
 
